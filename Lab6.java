@@ -12,5 +12,5 @@ public class Lab6 {
         System.out.print("Here is the result: ");
         int z = x + y;
         System.out.println(z);
-    }
+    } 
 }
