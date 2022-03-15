@@ -10,9 +10,9 @@ public class Lab6 {
         int y = userInput.nextInt();
         //Add numbers and return value
         System.out.print("Here is the result: ");
-        int z = x + y;
+        int z = x - y;
         System.out.println(z);
         
-        //This code produces a sum of two varibles and releases the output
+        //This code produces a difference of two varibles and releases the output
     } 
 }
